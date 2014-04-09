@@ -3,8 +3,8 @@ Kuroshi's XBMC Repository
 
 * Author:	Spencer Julian (<helloThere@spencerjulian.com>)
 * Date:		May, 2012
-* Last Update:	April 8, 2014
-* Version:	2.0.0
+* Last Update:	April 9, 2014
+* Version:	2.0.1
 * Github:	<https://github.com/kuruoujou/kuroshi-xbmc-repo>
 * Zip Download:	<http://ramblingahoge.net/kuroshi-xbmc-repo/repository.kuroshi/repository.kuroshi-2.0.0.zip>
 
