@@ -6,7 +6,7 @@ Kuroshi's XBMC Repository
 * Last Update:	April 9, 2014
 * Version:	2.0.1
 * Github:	<https://github.com/kuruoujou/kuroshi-xbmc-repo>
-* Zip Download:	<http://ramblingahoge.net/kuroshi-xbmc-repo/repository.kuroshi/repository.kuroshi-2.0.0.zip>
+* Zip Download:	<http://ramblingahoge.net/kuroshi-xbmc-repo/repository.kuroshi/repository.kuroshi-2.0.1.zip>
 
 Hello There!
 
