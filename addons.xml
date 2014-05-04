@@ -14,7 +14,7 @@
 	</extension>
 </addon>
 
-<addon id="script.service.xbmal" version="0.4.5" name="XBMAL" provider-name="Kuroshi">
+<addon id="script.service.xbmal" version="0.4.7" name="XBMAL" provider-name="Kuroshi">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.simplejson" />
