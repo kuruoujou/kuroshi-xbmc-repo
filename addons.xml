@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.kuroshi" name="Kuroshi's XBMC Addons" version="2.0.1" provider-name="Kuroshi">
-	<extension point="xbmc.addon.repository" name="Kuroshi's XBMC Addon Repository">
-		<info compressed="false">http://ramblingahoge.net/kuroshi-xbmc-repo/addons.xml</info>
-		<checksum>http://ramblingahoge.net/kuroshi-xbmc-repo/addons.xml.md5</checksum>
-		<datadir zip="true">http://ramblingahoge.net/kuroshi-xbmc-repo/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Kuroshi's Addon Repository</summary>
-		<description>Download and install kuroshi's addon repository, home of the MAL updater plugin!</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="script.service.xbmal" version="0.4.8" name="XBMAL" provider-name="Kuroshi">
+<addon id="script.service.xbmal" version="0.4.10" name="XBMAL" provider-name="Kuroshi">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.simplejson" />
@@ -29,6 +15,20 @@
 		<summary>MAL Updater script for XBMC by kuroshi</summary>
 		<description>XBMAL is a simple updater script for MAL, based on your XBMC library. Currently it only deals with watched and plan to watch shows, and marks shows that are completely watched as complete. It still has a long way to go.</description>
 		<disclaimer>This is still very experimental. Don't blame me if it messes up XBMC, MAL, or kills your cat. Really. (Released under GPLv3)</disclaimer>
+	</extension>
+</addon>
+
+<addon id="repository.kuroshi" name="Kuroshi's XBMC Addons" version="2.0.1" provider-name="Kuroshi">
+	<extension point="xbmc.addon.repository" name="Kuroshi's XBMC Addon Repository">
+		<info compressed="false">http://ramblingahoge.net/kuroshi-xbmc-repo/addons.xml</info>
+		<checksum>http://ramblingahoge.net/kuroshi-xbmc-repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://ramblingahoge.net/kuroshi-xbmc-repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Kuroshi's Addon Repository</summary>
+		<description>Download and install kuroshi's addon repository, home of the MAL updater plugin!</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
 	</extension>
 </addon>
 </addons>
